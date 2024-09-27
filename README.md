@@ -20,3 +20,4 @@ YearsInCurrentRole: Time spent in the current role.
 JobLevel: Current job level or hierarchy level (e.g., 1-5).
 JobSatisfaction: Employee satisfaction with their job (scale of 1 to 5).
 WorkLifeBalance: Self-reported work-life balance (scale of 1 to 5).
+
